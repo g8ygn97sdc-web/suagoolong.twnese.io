@@ -1,0 +1,2 @@
+# myLearningOfTaiwaneseHokkien
+學習台語的資料整理
