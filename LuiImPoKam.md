@@ -142,8 +142,8 @@ ng=g(語) + 鼻化母音
 | au  | auh  |      |      |      |
 | ia  | iah  | iap  | iat  | iak  |
 | iu  | iuh  |      |      |      |
-| io  | ioh  |      |      |      |
-| ua  | uah  |      | uat  | iok  |
+| io  | ioh  |      |      |   iok   |
+| ua  | uah  |      | uat  |      |
 | ui  | uih  |      |      |      |
 | ue  | ueh  |      |      |      |
 | iau | iauh |      |      |      |
