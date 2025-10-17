@@ -69,7 +69,7 @@ ng=g(語) + 鼻化母音
 
 ####  45韻口訣
 - 君：un。堅：ian。金：im。規：ui。嘉：e。
-- 干：an。公：iong。乖：uai。經：ing。觀：uan。
+- 干：an。公：ong。乖：uai。經：ing。觀：uan。
 - 沽：oo。嬌：iau。梔：inn。恭：iong。高：o。
 - 皆：ai。巾：in。姜：iang。甘：am。瓜：ua。
 - 江：ang。兼：iam。交：au。迦：ia。檜：ue。
